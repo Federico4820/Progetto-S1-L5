@@ -1,0 +1,173 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap');
+
+body{
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    line-height: 1.65;
+    color: #393d41;
+    font-size: 1.2rem;
+}
+
+
+h1,h2,h4{
+    line-height: 1.5;
+    color: #25a2c3;
+    font-family: "Montserrat", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: bold;
+    font-style: normal;
+    
+    
+}
+
+h2{
+    font-size:2em;
+}
+
+div{
+    box-sizing: border-box;
+}
+
+.div_h2{
+    padding-top: 1.5em;
+    text-align: center;
+}
+
+
+.h2_testi{
+    font-size: 1.2rem;
+}
+
+
+.logo{
+    width: 10%;
+}
+.divlogo{
+    background-color: black;
+    height: 8em;
+    align-content: center;
+}
+
+
+
+
+.div_paragrafi1{
+    width: 90%;
+    padding-bottom: 10%;
+}
+
+.div_alto{
+    background-image:url(../img/banner.jpg);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    padding-bottom: 1%;
+    text-align: center;
+}
+
+.orange{
+    margin-top: 2em;
+    margin-bottom: 2em;
+    width: 10%;
+    padding: 1em;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 10%;
+    background-color: #f04c2f ;
+    color: aliceblue;
+}
+
+.button{
+    color: white;
+    background-color: #f04c2f ;
+    font-size: larger;
+    font-weight: bold;
+    border: hidden;
+    cursor: pointer;
+}
+
+
+footer{
+    background-color: #25a2c3;
+    color: white;
+}
+
+
+
+.img_tonda{
+    width: 50%;
+    text-align: right;
+    display: inline-block;
+}
+.tondo{
+    width: 50%;
+    border-radius: 100%;
+}
+
+.arancio{
+    width: 100%;
+    padding-top: 1.5em;
+    background-color: #e22d0e;
+    color: aliceblue;
+    padding-bottom: 8%;
+}
+
+.p_arancio{
+    font-style: italic;
+}
+
+.div_Mario{
+    width: 90%;
+    font-size: xx-large;
+}
+
+.div_h2_Epicode{
+    width: 80%;
+    padding-top: 1.5em;
+}
+
+.div_h2_Epicode h2{
+    color: white;
+}
+
+
+
+.div_foto_schede{
+    width: 100%;
+}
+
+.foto_schede{
+    width: 100%;
+}
+
+.div_schede{
+    width: 90%;
+    border: 1px solid #dee1e3;
+    border-radius: 2%;
+    margin-top: 10%;
+}
+
+.div_schede3{
+    width: 90%;
+    border: 1px solid #dee1e3;
+    margin-top: 10%;
+    margin-bottom: 15%;
+    border-radius: 2%;
+}
+
+.div_footer{
+    width: 100%;
+    height: 20rem;
+}
+
+.div_footer p{
+    display: inline;
+}
+
+
+a{
+    color: white;
+}
+
+hr{
+    width: 40%;   
+}
